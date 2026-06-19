@@ -21,6 +21,7 @@ Este repositorio reúne una selección de proyectos académicos y personales des
 
 - KiCad
 - Multisim
+- Liveware
 
 ---
 
@@ -87,5 +88,3 @@ El proyecto comprendió el diseño electrónico, simulación, fabricación del P
 **Correo institucional:** 20250464@itla.edu.do
 
 **Correo personal:** josecg0817@gmail.com
-
-**LinkedIn:** *(Agregar enlace)*
